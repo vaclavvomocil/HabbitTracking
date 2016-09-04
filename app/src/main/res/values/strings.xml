@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HabbitTracking</string>
+    <string name="insert_text">insert</string>
+    <string name="read_text">read</string>
+    <string name="delete_text">delete</string>
+    <string name="update_text">update</string>
+</resources>
