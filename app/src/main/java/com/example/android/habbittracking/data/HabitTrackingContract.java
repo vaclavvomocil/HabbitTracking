@@ -5,6 +5,7 @@ import android.provider.BaseColumns;
 
 public class HabitTrackingContract {
 
+    //to prevent someone to accidentally initiate the contract class, use empty constructor
     private HabitTrackingContract() {
     }
 
